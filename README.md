@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bibek Parajuli</h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibekparajuli123" alt="bibekparajuli123" /></a> </p>
-
 - 🔭 I’m currently working on **SpringBoot Student Management**
 
 - 🌱 I’m currently learning **Spring Security**
