@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Bibek Parajuli</h1>
+<h1 align="center"> Hi, I'm Bibek Parajuli</h1>
 <h3 align="center">A passionate Java Backend Developer | DSA Enthusiast | SpringBoot Lover</h3>
 
 <p align="center">
