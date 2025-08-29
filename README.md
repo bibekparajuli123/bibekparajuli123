@@ -11,7 +11,7 @@
 - **SpringBoot Student Management System** – Fullstack backend development
 
 ### 🌱 Currently Learning
-- **Spring Security** and **Advanced Java Concepts**
+- **Spring Security** and **Microservices**
 
 ### 💬 Ask Me About
 - **DSA, OOP, Spring, JDBC, MongoDB & MySQL**
