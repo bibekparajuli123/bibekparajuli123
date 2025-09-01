@@ -47,6 +47,15 @@
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </p>
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bibekparajuli123&show_icons=true&theme=dark&count_private=true" alt="Bibek's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekparajuli123&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
