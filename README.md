@@ -50,13 +50,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bibekparajuli123&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
-
----
-
 ### ⚡ Fun Fact
 - I love exploring **new Java frameworks** and **solving DSA challenges**  
 - Coffee + Code = ❤️
