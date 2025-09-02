@@ -49,7 +49,8 @@
 </p>
 
 ### 📊 GitHub Stats
-html<br><picture><br> <source srcset="https://github-readme-stats.vercel.app/api?username=bibekparajuli123&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"><br> <img src="https://github-readme-stats.vercel.app/api?username=bibekparajuli123&show_icons=true" alt="GitHub Stats" /> <br></picture>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bibekparajuli123)](https://git.io/streak-stats)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekparajuli123&layout=compact&theme=dark" alt="Top Langs" height="180"/>
