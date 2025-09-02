@@ -50,15 +50,18 @@
 
 ### 📊 GitHub Stats
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=bibekparajuli123&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)">
-  <img src="https://github-readme-stats.vercel.app/api?username=bibekparajuli123&show_icons=true" alt="GitHub Stats">
-</picture>
-
-
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekparajuli123&layout=compact&theme=dark" alt="Top Langs" height="180"/>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=bibekparajuli123&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)">
+    <img src="https://github-readme-stats.vercel.app/api?username=bibekparajuli123&show_icons=true" alt="GitHub Stats" height="180"/>
+  </picture>
+  
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekparajuli123&layout=compact&theme=dark" media="(prefers-color-scheme: dark)">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekparajuli123&layout=compact" alt="Top Langs" height="180"/>
+  </picture>
 </p>
 
 ---
