@@ -49,12 +49,6 @@
 </p>
 
 ### 📊 GitHub Stats
-<picture>
-  <source srcset="https://streak-stats.demolab.com/?user=bibekparajuli123" media="(prefers-color-scheme: dark)">
-  <img src="https://streak-stats.demolab.com/?user=bibekparajuli123" alt="GitHub Total Contributions">
-</picture>
-
-<br />
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=bibekparajuli123&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)">
