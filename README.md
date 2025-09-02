@@ -48,6 +48,16 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bibekparajuli123&show_icons=true&theme=dark" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibekparajuli123&theme=dark" alt="GitHub streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekparajuli123&layout=compact&theme=dark" alt="Top Langs" height="180"/>
+</p>
+
 ---
 
 ### ⚡ Fun Fact
