@@ -49,9 +49,7 @@
 </p>
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibekparajuli123&theme=dark" alt="GitHub streak" height="180"/>
-</p>
+markdown<br>[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bibekparajuli123&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekparajuli123&layout=compact&theme=dark" alt="Top Langs" height="180"/>
