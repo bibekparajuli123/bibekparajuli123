@@ -50,7 +50,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bibekparajuli123&show_icons=true&theme=dark" alt="GitHub stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibekparajuli123&theme=dark" alt="GitHub streak" height="180"/>
 </p>
 
