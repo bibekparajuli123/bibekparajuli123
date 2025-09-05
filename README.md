@@ -5,21 +5,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="wave">
 </p>
 
-<img align="right" alt = "coding" width = "400" src = "https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
-
----
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 ### 🔭 Currently Working On
-- **SpringBoot Student Management System** – Fullstack backend development
+- **Full Stack Ecommerce App using Spring Boot**
 
 ### 🌱 Currently Learning
 - **Spring Security** and **Microservices**
 
 ### 💬 Ask Me About
-- **DSA, OOP, Spring, JDBC, MongoDB & MySQL**
+- **DSA, OOP, SpringBoot, JDBC, MySQL/NoSQL**
 
 ### 📫 Contact Me
-- Email: <a href="mailto:bibekparajuli275@gmail.com">bibekparajuli275@gmail.com</a>
+- Email: <a href="mailto:bibekparajuli275@gmail.com">bibekparajuli275@gmail.com</a>  
 - LinkedIn: <a href="https://linkedin.com/in/bibekprj">Bibek Parajuli</a>
 
 ---
@@ -66,5 +64,5 @@
 ---
 
 ### ⚡ Fun Fact
-- I love exploring **new Java frameworks** and **solving DSA challenges**  
+- I love exploring **new Java concepts** and **solving DSA challenges**  
 - Coffee + Code = ❤️
