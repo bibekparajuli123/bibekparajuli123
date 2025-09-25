@@ -57,7 +57,7 @@
   
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekparajuli123&layout=compact&theme=dark" media="(prefers-color-scheme: dark)">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibekparajuli123&layout=compact" alt="Top Langs" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=machadop1407&show_icons=true&theme=react&hide=contribs&count_private=true&access_token=YOUR_TOKEN_HERE" />
   </picture>
 </p>
 
