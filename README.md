@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Bibek Parajuli</h1>
-<h3 align="center">A passionate Java Backend Developer | DSA Enthusiast | SpringBoot Lover</h3>
+<h3 align="center">A passionate Java Backend Developer | Blockchain Enthusiast | SpringBoot Lover</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="wave">
@@ -8,13 +8,13 @@
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 ### 🔭 Currently Working On
-- **Full Stack Ecommerce App using Spring Boot**
+- **ai-based-job-platform**
 
 ### 🌱 Currently Learning
-- **Spring Security** and **Microservices**
+- **Spring AI** and **Spring Security**
 
 ### 💬 Ask Me About
-- **DSA, OOP, SpringBoot, JDBC, MySQL/NoSQL**
+- **DSA, OOP, SpringBoot, React, MySQL/NoSQL**
 
 ### 📫 Contact Me
 - Email: <a href="mailto:bibekparajuli275@gmail.com">bibekparajuli275@gmail.com</a>  
@@ -60,5 +60,5 @@
 ---
 
 ### ⚡ Fun Fact
-- I love exploring **new Java concepts** and **solving DSA challenges**  
+- I love exploring **new technologies** and **solving problems**  
 - Coffee + Code = ❤️
