@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Bibek Parajuli</h1>
-<h3 align="center">QA Engineer | AI & Automation Enthusiast | Java Backend Developer</h3>
+<h3 align="center">QA Engineer | Java Backend Developer | AI & Automation Enthusiast</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="wave">
@@ -7,10 +7,11 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
-### 🧪 Featured QA Portfolios
-Check out my manual and API testing projects:
-- 🛒 **[UI Manual Testing (SauceDemo)](https://github.com/bibekparajuli123/saucedemo-manual-testing)** — 42 test cases, bug reports, and execution summaries.
-- 🔌 **[API Manual Testing (Restful-Booker)](https://github.com/bibekparajuli123/api-manual-testing-portfolio)** — Postman collections and API test cases.
+### 🧪 QA & Testing
+- **Manual Testing:** Test case design, bug reporting, execution summaries (UI, API, Database).
+- **API Testing:** Postman, HTTP methods, JSON payloads, status code validation.
+- **Database Testing:** SQL, data integrity, backend validation.
+- **Tools:** Jira, Postman, GitHub, Selenium/Playwright (Learning).
 
 ### 🔭 Currently Working On
 - Integrating AI into automated testing workflows
@@ -21,7 +22,7 @@ Check out my manual and API testing projects:
 - **Spring AI** and **Spring Security**
 
 ### 💬 Ask Me About
-- **Manual Testing, API Testing, Postman, DSA, OOP, SpringBoot, React, MySQL/NoSQL**
+- **Manual Testing, API Testing, Database Testing, DSA, OOP, SpringBoot, React, MySQL/NoSQL**
 
 ### 📫 Contact Me
 - Email: <a href="mailto:bibekparajuli275@gmail.com">bibekparajuli275@gmail.com</a>  
@@ -51,18 +52,7 @@ Check out my manual and API testing projects:
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <!-- Added Postman & QA Icons -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</p>
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=bibekparajuli123&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)">
-    <img src="https://github-readme-stats.vercel.app/api?username=bibekparajuli123&show_icons=true" alt="GitHub Stats" height="180"/>
-  </picture>
 </p>
 
 ---
