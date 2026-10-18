@@ -15,8 +15,8 @@
 - **Tools:** Jira, Postman, GitHub.
 
 ### 💻 Backend & Development
-- **Languages:** Java, Python, Dart.
-- **Frameworks:** Spring Boot, React, Flutter.
+- **Languages:** Java, Python.
+- **Frameworks:** Spring Boot, React.
 - **Databases:** MySQL, MongoDB, Firebase.
 - *Note: My background in backend development (Java/Spring Boot) gives me a deep understanding of system architecture, which makes me a stronger QA tester.*
 
@@ -56,8 +56,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
