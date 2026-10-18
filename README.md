@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Bibek Parajuli</h1>
-<h3 align="center">QA Engineer | Java Backend Developer | AI & Automation Enthusiast</h3>
+<h3 align="center">QA Engineer | AI & Automation Enthusiast | Java Backend Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="wave">
@@ -7,11 +7,18 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
-### 🧪 QA & Testing
+### 🧪 QA & Automation Skills
 - **Manual Testing:** Test case design, bug reporting, execution summaries (UI, API, Database).
 - **API Testing:** Postman, HTTP methods, JSON payloads, status code validation.
 - **Database Testing:** SQL, data integrity, backend validation.
-- **Tools:** Jira, Postman, GitHub, Selenium/Playwright (Learning).
+- **Automation (Learning):** Playwright, Selenium (leveraging my Java/Python background).
+- **Tools:** Jira, Postman, GitHub.
+
+### 💻 Backend & Development
+- **Languages:** Java, Python, Dart.
+- **Frameworks:** Spring Boot, React, Flutter.
+- **Databases:** MySQL, MongoDB, Firebase.
+- *Note: My background in backend development (Java/Spring Boot) gives me a deep understanding of system architecture, which makes me a stronger QA tester.*
 
 ### 🔭 Currently Working On
 - Integrating AI into automated testing workflows
@@ -22,7 +29,7 @@
 - **Spring AI** and **Spring Security**
 
 ### 💬 Ask Me About
-- **Manual Testing, API Testing, Database Testing, DSA, OOP, SpringBoot, React, MySQL/NoSQL**
+- **Manual Testing, API Testing, Database Testing, Java, Spring Boot, DSA, OOP**
 
 ### 📫 Contact Me
 - Email: <a href="mailto:bibekparajuli275@gmail.com">bibekparajuli275@gmail.com</a>  
